@@ -159,7 +159,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-            <b>Maono</b><br/>
+            <b>MAONO</b><br/>
             Maktaba ya Watumishi inasaidia Watumishi wa Mungu kueneza Injili ya Yesu Kristo ulimwenguni pote kupitia Jukwaa la Kidijitali na Mikakati mikubwa ya uhamasishaji wa Waenezaji.
 
             </p>
