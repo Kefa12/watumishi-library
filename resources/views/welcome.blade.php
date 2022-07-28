@@ -148,22 +148,23 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              <b>KUHUSU SISI</b><br/>
+            David Mangare ndiye Mwanzilishi wa Maktaba ya Watumishi. Tangu 2017 aligundua kuwa Watumishi wengi wa Mungu, Walimu, Wachungaji, Manabii na Mitume, hawana Jukwaa la Kiroho ambalo litafikia idadi kubwa ya Wakristo na wengine. Pia, aliona kwamba Wakristo wengi wanapoteza moyo wao wa kusoma, kusikiliza, kutazama na kueneza neno la Mungu kwa sababu ya Teknolojia na ukuaji wa utandawazi. Wakristo wengi wako busy kutafuta pesa na kukosa muda wa kutosha wa kuupata uso wa Mungu. Kwa hiyo, alifikiri njia bora na ya kisasa ya Kusaidia makanisa, ni kuwa na Uhuru wa Kifedha na kuwa na muda fulani wa kutafuta Ufalme wa Mungu huku ukipumzika kiakili na kimwili kwa Kuzawadiwa kupitia Mfumo wa Mtandao. Mtu yeyote duniani anaweza kuwa mwanachama na kufaidika na mfumo. Kwa hivyo katika mwaka wa 2021 akaunda mfumo ambao ulijaribiwa na kusajiliwa chini ya sheria za Serikali ya Tanzania kama Jukwaa la Kikristo la kuuza Rasilimali za Kikristo.
+            Maktaba ya Watumishi ni jukwaa la Ukristo kwa Watumishi wa Mungu kuongeza Yaliyomo kama vile Video, Mahubiri, Sauti, Vitabu na Nukuu za Biblia kwa Makanisa kote ulimwenguni ili Kujifunza kuhusu Ufalme wa Mungu na Neno la Mungu na Muziki wa Injili.
+            Maktaba ya Watumishi huleta nafasi kwa waumini wa Kanisa kuchangia Michango yao kwa ajili ya kusaidia huduma hii, na Watumishi wote wanaotoa chakula vya Kiroho kwa Wanadamu.
+            Jukwaa la Warumishi humzawadia kila mwanachama kama shukurani na kumpa Motisha, kwa wale wanaowaelekeza wengine kujiunga na Maktaba na kumtumikia Mungu kwa Kutegemeza huduma yake.
+
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
+            
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+            <b>Maono</b><br/>
+            Maktaba ya Watumishi inasaidia Watumishi wa Mungu kueneza Injili ya Yesu Kristo ulimwenguni pote kupitia Jukwaa la Kidijitali na Mikakati mikubwa ya uhamasishaji wa Waenezaji.
+
             </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
+            <!-- <a href="#" class="btn-learn-more">Learn More</a>
+          -->
           </div>
         </div>
 
